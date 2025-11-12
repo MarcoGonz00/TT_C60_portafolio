@@ -10,6 +10,7 @@ En este sprint aprendimos los conceptos basicos del lenguaj de programacion de p
 - Tuplas.
 - f-strings,
 
+En este proyecto realizamos ejercicios basicos de python para aprender dichos contenidos. 
 ##Sprint 2: Python Basico | Continuacion.
 
 ........
