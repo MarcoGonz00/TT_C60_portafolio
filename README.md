@@ -8,4 +8,8 @@ En este sprint aprendimos los conceptos basicos del lenguaj de programacion de p
 - Tipos de datos.
 - Listas.
 - Tuplas.
-- f-strings
+- f-strings,
+
+##Sprint 2: Python Basico | Continuacion.
+
+........
