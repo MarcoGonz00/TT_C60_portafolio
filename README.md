@@ -23,3 +23,4 @@ En este proyecto realizamos ejercicios basicos de python para aprender dichos co
 - Agrupaciones
 - Analisis de duplicados
 - etc.
+Mucho Texto
