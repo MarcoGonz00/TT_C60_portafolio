@@ -19,3 +19,7 @@ En este proyecto realizamos ejercicios basicos de python para aprender dichos co
 ## Sprint 3: Pandas
  
  En este sprint aprendimos pandas
+
+- Agrupaciones
+- Analisis de duplicados
+- etc.
